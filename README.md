@@ -534,13 +534,17 @@ O banco de dados utilizado foi o MySQL MariaDB. Foi necessário criar um banco d
 &nbsp;
 <a id="-autor"></a>
 
-## 🦸 Autor
+## 🦸 Autor original
 
 Olá, eu sou Livio Alvarenga, Engenheiro de Produção | Dev Back-end e Front-end. Sou aficcionado por tecnologia, programação, processos e planejamento. Uni todas essas paixões em uma só profissão. Dúvidas, sugestões e críticas são super bem vindas. Seguem meus contatos.
 
 - [www.livioalvarenga.com](https://livioalvarenga.com)
 - contato@livioalvarenga.com
 
+Contribuidor: 
+- [lemon.dev.br](https://lemon.dev.br)
+- [@anderson.lima.dev](https://instagram.com/anderson.lima.dev)
+- 
 &nbsp;
 
 <p align="center">
